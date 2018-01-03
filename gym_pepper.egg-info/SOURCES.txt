@@ -1,0 +1,5 @@
+gym_pepper.egg-info/PKG-INFO
+gym_pepper.egg-info/SOURCES.txt
+gym_pepper.egg-info/dependency_links.txt
+gym_pepper.egg-info/requires.txt
+gym_pepper.egg-info/top_level.txt

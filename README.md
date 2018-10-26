@@ -1,7 +1,7 @@
 # Gym wrapper for Pepper robot
-> This repo serves as a basic gym wrapper for pepper robot. It takes image as input and output designed actions as output.
+> This repo serves as a basic gym wrapper for pepper robot. It takes image as input and output designed actions.
 
-User can use standard gym repo structure to install the package [[Tutorial]](https://github.com/openai/gym/tree/master/gym/envs#how-to-create-new-environments-for-gym). You are encourage to contact the author or to submit a pull request to discuss issues related to this  repo.
+Users can use standard gym repo structure to install the package [[Tutorial]](https://github.com/openai/gym/tree/master/gym/envs#how-to-create-new-environments-for-gym). You are encourage to contact the author or to submit a pull request to discuss issues related to this  repo.
 
 ## Installation
 After cloning the repo, you can use following commend to install the package.
